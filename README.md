@@ -20,9 +20,12 @@ A simple implementation of the classic Rock, Paper, Scissors game using HTML, CS
 - The game randomly selects the computer's choice (Rock, Paper, or Scissors) when the player makes a selection.
 - The result is determined based on the classic Rock, Paper, Scissors rules.
 
-## Development
+## Demo
 
+Try the game live: [Rock Paper Scissors Demo](https://goura.freewebhostmost.com/)
+## Development
 Feel free to contribute to the development of this simple game. You can fork the repository, make changes, and submit a pull request.
+
 
 ## License
 
